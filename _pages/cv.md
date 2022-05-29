@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Psychology, Qiqihar University, 2011
+* M.S. in Psychology, Southwest University, 2015
+* Ph.D in Cognitive Neuroscience, University of Macau, 2019
 
 Work experience
 ======
